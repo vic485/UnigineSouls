@@ -1,0 +1,24 @@
+# Editor cache folders
+.idea/
+.vs/
+.vscode/
+
+# Cache folders
+.thumbnails/
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+junk/
+
+# Launch files
+launch_*.bat
+launch_*.sh
+
+# Data cache
+/data/*.cache
+/data/.cache_textures/
+/data/.runtimes
+
+# Large/temporary project files
+/data/csharp_template/
